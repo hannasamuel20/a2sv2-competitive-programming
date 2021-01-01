@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f06b84d-475f-41bb-8f53-04698dc3520c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AdditionSubtractionMultiplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CountingValleys.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CountingValleys.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CountingValleys.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,11 +29,11 @@
       <file leaf-file-name="CountingValleys.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/CountingValleys.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="30" lean-forward="true" selection-start-line="5" selection-start-column="6" selection-end-line="30" />
+            <state relative-caret-position="238">
+              <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
               <folding>
                 <element signature="e#74#75#0" expanded="true" />
-                <element signature="e#104#105#0" expanded="true" />
+                <element signature="e#110#111#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -103,8 +101,8 @@
         <option value="$PROJECT_DIR$/src/Triangle2.java" />
         <option value="$PROJECT_DIR$/src/SalesByMatch.java" />
         <option value="$PROJECT_DIR$/src/TwoSum.java" />
-        <option value="$PROJECT_DIR$/src/CountingValleys.java" />
         <option value="$PROJECT_DIR$/src/AdditionSubtractionMultiplication.java" />
+        <option value="$PROJECT_DIR$/src/CountingValleys.java" />
       </list>
     </option>
   </component>
@@ -283,6 +281,11 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Triangle2.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -331,11 +334,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CountingValleys.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="30" lean-forward="true" selection-start-line="5" selection-start-column="6" selection-end-line="30" />
+        <state relative-caret-position="238">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
           <folding>
             <element signature="e#74#75#0" expanded="true" />
-            <element signature="e#104#105#0" expanded="true" />
+            <element signature="e#110#111#0" expanded="true" />
           </folding>
         </state>
       </provider>
