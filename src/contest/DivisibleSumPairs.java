@@ -1,4 +1,4 @@
-package weekOne;
+package contest;
 
 public class DivisibleSumPairs {
     static int divisibleSumPairs(int n, int k, int[] ar) {

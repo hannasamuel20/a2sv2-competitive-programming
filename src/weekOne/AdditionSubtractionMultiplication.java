@@ -1,3 +1,5 @@
+package weekOne;
+
 import java.util.ArrayList;
 
 public class AdditionSubtractionMultiplication {

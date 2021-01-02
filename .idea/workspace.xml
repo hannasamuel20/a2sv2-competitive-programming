@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f06b84d-475f-41bb-8f53-04698dc3520c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/weekOne/BonApetite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/weekOne/DivisibleSumPairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/weekOne/RepeatedString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/a2sv2/ReverseInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/a2sv2/ReverseInteger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AdditionSubtractionMultiplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/weekOne/AdditionSubtractionMultiplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CountingValleys.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/weekOne/CountingValleys.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReverseInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/weekOne/ReverseInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SalesByMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/weekOne/SalesByMatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Triangle1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/weekOne/Triangle1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Triangle2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/weekOne/Triangle2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/weekOne/TwoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/weekOne/BonApetite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/contest/BonApetite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/weekOne/DivisibleSumPairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/contest/DivisibleSumPairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/weekOne/RepeatedString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/contest/RepeatedString.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,10 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TwoSum.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/TwoSum.java">
+      <file leaf-file-name="TwoSum.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/weekOne/TwoSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="119">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -31,10 +36,10 @@
         </entry>
       </file>
       <file leaf-file-name="CountingValleys.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CountingValleys.java">
+        <entry file="file://$PROJECT_DIR$/src/weekOne/CountingValleys.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               <folding>
                 <element signature="e#74#75#0" expanded="true" />
                 <element signature="e#142#143#0" expanded="true" />
@@ -44,10 +49,10 @@
         </entry>
       </file>
       <file leaf-file-name="ReverseInteger.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ReverseInteger.java">
+        <entry file="file://$PROJECT_DIR$/src/weekOne/ReverseInteger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               <folding>
                 <element signature="e#73#74#0" expanded="true" />
                 <element signature="e#120#121#0" expanded="true" />
@@ -57,7 +62,7 @@
         </entry>
       </file>
       <file leaf-file-name="BonApetite.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/weekOne/BonApetite.java">
+        <entry file="file://$PROJECT_DIR$/src/contest/BonApetite.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="116">
               <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
@@ -66,7 +71,7 @@
         </entry>
       </file>
       <file leaf-file-name="DivisibleSumPairs.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/weekOne/DivisibleSumPairs.java">
+        <entry file="file://$PROJECT_DIR$/src/contest/DivisibleSumPairs.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
               <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
@@ -74,8 +79,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RepeatedString.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/weekOne/RepeatedString.java">
+      <file leaf-file-name="RepeatedString.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/contest/RepeatedString.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="510">
               <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
@@ -84,19 +89,19 @@
         </entry>
       </file>
       <file leaf-file-name="AdditionSubtractionMultiplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/AdditionSubtractionMultiplication.java">
+        <entry file="file://$PROJECT_DIR$/src/weekOne/AdditionSubtractionMultiplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2941">
-              <caret line="173" column="37" selection-start-line="173" selection-start-column="37" selection-end-line="173" selection-end-column="37" />
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="SalesByMatch.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SalesByMatch.java">
+        <entry file="file://$PROJECT_DIR$/src/weekOne/SalesByMatch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="22" selection-start-line="22" selection-end-line="24" />
+            <state relative-caret-position="85">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -105,19 +110,19 @@
         </entry>
       </file>
       <file leaf-file-name="Triangle1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Triangle1.java">
+        <entry file="file://$PROJECT_DIR$/src/weekOne/Triangle1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Triangle2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Triangle2.java">
+        <entry file="file://$PROJECT_DIR$/src/weekOne/Triangle2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               <folding>
                 <element signature="e#68#69#0" expanded="true" />
                 <element signature="e#96#97#0" expanded="true" />
@@ -153,6 +158,7 @@
         <option value="$PROJECT_DIR$/src/weekOne/BonApetite.java" />
         <option value="$PROJECT_DIR$/src/weekOne/DivisibleSumPairs.java" />
         <option value="$PROJECT_DIR$/src/weekOne/RepeatedString.java" />
+        <option value="$PROJECT_DIR$/src/contest/RepeatedString.java" />
       </list>
     </option>
   </component>
@@ -185,6 +191,12 @@
               <item name="Problems" type="b2602c69:ProjectViewProjectNode" />
               <item name="a2sv2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="contest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Problems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="a2sv2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="weekOne" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -212,22 +224,22 @@
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration name="CountingValleys" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CountingValleys" />
+      <option name="MAIN_CLASS_NAME" value="weekOne.CountingValleys" />
       <module name="a2sv2" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration name="ReverseInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReverseInteger" />
+      <option name="MAIN_CLASS_NAME" value="weekOne.ReverseInteger" />
       <module name="a2sv2" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration name="SalesByMatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SalesByMatch" />
+      <option name="MAIN_CLASS_NAME" value="weekOne.SalesByMatch" />
       <module name="a2sv2" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TwoSum" />
+      <option name="MAIN_CLASS_NAME" value="weekOne.TwoSum" />
       <module name="a2sv2" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -304,7 +316,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -343,7 +354,7 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/TwoSum.java">
+    <entry file="file://$PROJECT_DIR$/src/weekOne/TwoSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret lean-forward="true" />
@@ -353,14 +364,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AdditionSubtractionMultiplication.java">
+    <entry file="file://$PROJECT_DIR$/src/weekOne/AdditionSubtractionMultiplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2941">
           <caret line="173" column="37" selection-start-line="173" selection-start-column="37" selection-end-line="173" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SalesByMatch.java">
+    <entry file="file://$PROJECT_DIR$/src/weekOne/SalesByMatch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="22" selection-start-line="22" selection-end-line="24" />
@@ -370,14 +381,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Triangle1.java">
+    <entry file="file://$PROJECT_DIR$/src/weekOne/Triangle1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Triangle2.java">
+    <entry file="file://$PROJECT_DIR$/src/weekOne/Triangle2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
@@ -388,79 +399,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CountingValleys.java">
+    <entry file="file://$PROJECT_DIR$/src/weekOne/CountingValleys.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
           <folding>
             <element signature="e#74#75#0" expanded="true" />
             <element signature="e#142#143#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Triangle2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="e#68#69#0" expanded="true" />
-            <element signature="e#96#97#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Triangle1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SalesByMatch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="22" selection-start-line="22" selection-end-line="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TwoSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AdditionSubtractionMultiplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2941">
-          <caret line="173" column="37" selection-start-line="173" selection-start-column="37" selection-end-line="173" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CountingValleys.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-          <folding>
-            <element signature="e#74#75#0" expanded="true" />
-            <element signature="e#142#143#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ReverseInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-          <folding>
-            <element signature="e#73#74#0" expanded="true" />
-            <element signature="e#120#121#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -475,24 +420,91 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/weekOne/BonApetite.java">
+    <entry file="file://$PROJECT_DIR$/src/contest/BonApetite.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
           <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/weekOne/DivisibleSumPairs.java">
+    <entry file="file://$PROJECT_DIR$/src/contest/DivisibleSumPairs.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/weekOne/RepeatedString.java">
+    <entry file="file://$PROJECT_DIR$/src/contest/RepeatedString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/weekOne/AdditionSubtractionMultiplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/weekOne/CountingValleys.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#74#75#0" expanded="true" />
+            <element signature="e#142#143#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/weekOne/ReverseInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#73#74#0" expanded="true" />
+            <element signature="e#120#121#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/weekOne/SalesByMatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/weekOne/Triangle1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/weekOne/Triangle2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#68#69#0" expanded="true" />
+            <element signature="e#96#97#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/weekOne/TwoSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -1,4 +1,4 @@
-package weekOne;
+package contest;
 
 import java.util.List;
 

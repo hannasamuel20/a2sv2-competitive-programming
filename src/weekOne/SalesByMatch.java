@@ -1,3 +1,5 @@
+package weekOne;
+
 import java.util.HashMap;
 import java.util.Map;
 

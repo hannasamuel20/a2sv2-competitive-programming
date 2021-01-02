@@ -1,4 +1,4 @@
-package weekOne;
+package contest;
 
 public class RepeatedString {
     static long repeatedString(String s, long n) {

@@ -1,3 +1,5 @@
+package weekOne;
+
 public class CountingValleys {
     public static void main(String[] args) {
         System.out.println(countingValleys(10,"DUDDDUUDUU"));
