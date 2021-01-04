@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3f06b84d-475f-41bb-8f53-04698dc3520c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/weekOne/AddTwoNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/weekOne/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/a2sv2/AdditionSubtractionMultiplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/a2sv2/Bon.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/a2sv2/CountingValleys.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/a2sv2/ReverseInteger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/a2sv2/SalesByMatch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/a2sv2/Triangle1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/a2sv2/Triangle2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/a2sv2/TwoSum.class" beforeDir="false" />
-    </list>
+    <list default="true" id="3f06b84d-475f-41bb-8f53-04698dc3520c" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -66,8 +54,8 @@
       <file leaf-file-name="AddTwoNumbers.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/weekOne/AddTwoNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="93" selection-start-line="93" selection-end-line="93" />
+            <state relative-caret-position="68">
+              <caret line="4" column="68" selection-start-line="4" selection-start-column="68" selection-end-line="4" selection-end-column="68" />
             </state>
           </provider>
         </entry>
@@ -568,8 +556,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/weekOne/AddTwoNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="93" selection-start-line="93" selection-end-line="93" />
+        <state relative-caret-position="68">
+          <caret line="4" column="68" selection-start-line="4" selection-start-column="68" selection-end-line="4" selection-end-column="68" />
         </state>
       </provider>
     </entry>
