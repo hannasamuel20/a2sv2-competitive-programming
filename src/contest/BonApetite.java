@@ -15,14 +15,6 @@ public class BonApetite {
             }
             totalPrice+=bill.get(i);
         }
-
-// System.out.println((totalPrice/2)-(totalPriceWithout/2)-b);
-
-// System.out.println((totalPrice/2));
-//         System.out.println((totalPriceWithout/2));
-//         System.out.println(b);
-//         Integer a=(totalPrice/2)-(totalPriceWithout/2)-b;
-//         System.out.println(a+"adssdf");
         if((totalPriceWithout/2)==b){
             System.out.println("Bon Appetit");
         }
