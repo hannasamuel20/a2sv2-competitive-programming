@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f06b84d-475f-41bb-8f53-04698dc3520c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/weekTwo/LargestPerimeter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weekTwo/DeleteNodeLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weekTwo/LinkedListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weekTwo/NonDecreasingArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/a2sv2/weekTwo/LargestPerimeter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/a2sv2/weekTwo/LargestPerimeter.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,24 +18,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BubbleSort.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/weekTwo/BubbleSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="9" selection-start-line="11" selection-start-column="7" selection-end-line="19" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="InsertionSort.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/weekTwo/InsertionSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="36" selection-start-line="36" selection-end-line="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="CountingSort.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/weekTwo/CountingSort.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -51,24 +36,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MarkAndToys.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/weekTwo/MarkAndToys.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FindTheMedian.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/weekTwo/FindTheMedian.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="RelativeSort.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/weekTwo/RelativeSort.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -81,7 +48,7 @@
       <file leaf-file-name="IntersectionOfTwoArrays.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/weekTwo/IntersectionOfTwoArrays.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
+            <state relative-caret-position="442">
               <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
             </state>
           </provider>
@@ -90,8 +57,8 @@
       <file leaf-file-name="ValidAnagram.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/weekTwo/ValidAnagram.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+            <state relative-caret-position="697">
+              <caret line="42" selection-start-line="42" selection-end-line="42" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -99,14 +66,58 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LargestPerimeter.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LargestPerimeter.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/weekTwo/LargestPerimeter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
               <folding>
                 <element signature="e#119#120#0" expanded="true" />
-                <element signature="e#155#156#0" expanded="true" />
+                <element signature="e#191#192#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ListNode.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/weekOne/ListNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LinkedListNode.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/weekTwo/LinkedListNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+              <folding>
+                <element signature="e#154#155#0" expanded="true" />
+                <element signature="e#173#174#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DeleteNodeLinkedList.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/weekTwo/DeleteNodeLinkedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="50" column="9" lean-forward="true" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NonDecreasingArray.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/weekTwo/NonDecreasingArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <element signature="e#95#96#0" expanded="true" />
+                <element signature="e#176#177#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -120,6 +131,13 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>nums[i]</find>
+      <find>nums[i+1]</find>
+      <find>nums[i+2]</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -140,7 +158,6 @@
         <option value="$PROJECT_DIR$/src/weekOne/DivisibleSumPairs.java" />
         <option value="$PROJECT_DIR$/src/weekOne/RepeatedString.java" />
         <option value="$PROJECT_DIR$/src/contest/RepeatedString.java" />
-        <option value="$PROJECT_DIR$/src/weekOne/ListNode.java" />
         <option value="$PROJECT_DIR$/src/weekOne/AddTwoNumbers.java" />
         <option value="$PROJECT_DIR$/src/weekTwo/BubbleSort.java" />
         <option value="$PROJECT_DIR$/src/weekTwo/SelectionSort.java" />
@@ -153,6 +170,11 @@
         <option value="$PROJECT_DIR$/src/weekTwo/IntersectionOfTwoArrays.java" />
         <option value="$PROJECT_DIR$/src/weekTwo/ValidAnagram.java" />
         <option value="$PROJECT_DIR$/src/weekTwo/LargestPerimeter.java" />
+        <option value="$PROJECT_DIR$/src/weekTwo/NonDecreasingArray.java" />
+        <option value="$PROJECT_DIR$/src/weekTwo/Some.java" />
+        <option value="$PROJECT_DIR$/src/weekOne/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/weekTwo/LinkedListNode.java" />
+        <option value="$PROJECT_DIR$/src/weekTwo/DeleteNodeLinkedList.java" />
       </list>
     </option>
   </component>
@@ -166,6 +188,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -200,9 +223,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="RunDashboard">
@@ -217,9 +239,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ValidAnagram">
-    <configuration name="CountingSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="weekTwo.CountingSort" />
+  <component name="RunManager" selected="Application.DeleteNodeLinkedList">
+    <configuration name="DeleteNodeLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="weekTwo.DeleteNodeLinkedList" />
       <module name="a2sv2" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -240,8 +262,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="MarkAndToys" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="weekTwo.MarkAndToys" />
+    <configuration name="NonDecreasingArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="weekTwo.NonDecreasingArray" />
       <module name="a2sv2" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -251,8 +273,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="RelativeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="weekTwo.RelativeSort" />
+    <configuration name="Some" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="weekTwo.Some" />
       <module name="a2sv2" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -315,19 +337,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.CountingSort" />
-      <item itemvalue="Application.MarkAndToys" />
-      <item itemvalue="Application.RelativeSort" />
       <item itemvalue="Application.IntersectionOfTwoArrays" />
       <item itemvalue="Application.ValidAnagram" />
+      <item itemvalue="Application.NonDecreasingArray" />
+      <item itemvalue="Application.Some" />
+      <item itemvalue="Application.DeleteNodeLinkedList" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DeleteNodeLinkedList" />
+        <item itemvalue="Application.Some" />
+        <item itemvalue="Application.NonDecreasingArray" />
         <item itemvalue="Application.ValidAnagram" />
         <item itemvalue="Application.IntersectionOfTwoArrays" />
-        <item itemvalue="Application.RelativeSort" />
-        <item itemvalue="Application.MarkAndToys" />
-        <item itemvalue="Application.CountingSort" />
       </list>
     </recent_temporary>
   </component>
@@ -381,38 +403,10 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="4" />
+      <option name="time" value="6" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/weekTwo/IntersectionOfTwoArrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="17" lean-forward="true" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/weekOne/TwoSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/weekOne/CountingValleys.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/weekOne/ReverseInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/contest/RepeatedString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -645,13 +639,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/weekOne/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/weekOne/AddTwoNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -717,29 +704,77 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/weekTwo/IntersectionOfTwoArrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
+        <state relative-caret-position="442">
           <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/weekTwo/ValidAnagram.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+        <state relative-caret-position="697">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/weekTwo/NonDecreasingArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#95#96#0" expanded="true" />
+            <element signature="e#176#177#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/weekTwo/LargestPerimeter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
           <folding>
             <element signature="e#119#120#0" expanded="true" />
-            <element signature="e#155#156#0" expanded="true" />
+            <element signature="e#191#192#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/weekTwo/Some.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#110#111#0" expanded="true" />
+            <element signature="e#131#132#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/weekOne/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/weekTwo/LinkedListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+          <folding>
+            <element signature="e#154#155#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/weekTwo/DeleteNodeLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="50" column="9" lean-forward="true" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
         </state>
       </provider>
     </entry>
