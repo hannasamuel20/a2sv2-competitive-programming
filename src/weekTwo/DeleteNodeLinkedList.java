@@ -2,7 +2,7 @@ package weekTwo;
 
 public class DeleteNodeLinkedList {
     public static void main(String[] args) {
-        traverse( deleteNode(7,createLinkedList(new int[]{5,7,8,2,34})));
+        //traverse( deleteNode(7,createLinkedList(new int[]{5,7,8,2,34})));
 
     }
 
@@ -25,7 +25,7 @@ public class DeleteNodeLinkedList {
         }
     }
 
-    public static LinkedListNode deleteNode(int value, LinkedListNode node){
+    public static void deleteNode(int value, LinkedListNode node){
         LinkedListNode previousNode=null;
         LinkedListNode nextNode=null;
 
@@ -34,7 +34,7 @@ public class DeleteNodeLinkedList {
             if(previousNode==null){
                 if(node.value==value){
                     node=node.next;
-                    return node;
+                    break;
                 }
                 previousNode=node;
                 node=node.next;
@@ -43,12 +43,12 @@ public class DeleteNodeLinkedList {
             else{
                 if(node.value==value){
                     previousNode.next=nextNode;
+                    break;
                 }
 
             }
             node=node.next;
 
         }
-        return node;
     }
 }
