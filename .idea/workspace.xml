@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f06b84d-475f-41bb-8f53-04698dc3520c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/weekOne/Division.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/weekOne/MiddleOfLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/weekTwo/MatrixCells.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/weekTwo/RecentCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/weekTwo/Recursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weekTwo/MyLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/a2sv2/weekTwo/ReversePolishNotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/a2sv2/weekTwo/ReversePolishNotation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/weekTwo/DeleteNodeLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/weekTwo/DeleteNodeLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/weekTwo/LinkedListNode.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,15 +26,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LinkedListNode.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/weekTwo/LinkedListNode.java">
+      <file leaf-file-name="MyLinkedList.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/weekTwo/MyLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding>
-                <element signature="e#141#142#0" expanded="true" />
-                <element signature="e#173#174#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="291">
+              <caret line="133" column="9" lean-forward="true" selection-start-line="113" selection-start-column="6" selection-end-line="133" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -87,7 +80,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MatrixCells.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MatrixCells.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/weekTwo/MatrixCells.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="279">
@@ -111,8 +104,8 @@
       <file leaf-file-name="DeleteNodeLinkedList.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/weekTwo/DeleteNodeLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+            <state relative-caret-position="204">
+              <caret line="12" column="2" lean-forward="true" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -168,7 +161,6 @@
         <option value="$PROJECT_DIR$/src/weekTwo/Some.java" />
         <option value="$PROJECT_DIR$/src/weekOne/ListNode.java" />
         <option value="$PROJECT_DIR$/src/weekTwo/LinkedListNode.java" />
-        <option value="$PROJECT_DIR$/src/weekTwo/DeleteNodeLinkedList.java" />
         <option value="$PROJECT_DIR$/src/weekTwo/ValidParentheses.java" />
         <option value="$PROJECT_DIR$/src/weekTwo/ReversePolishNotation.java" />
         <option value="$PROJECT_DIR$/src/weekTwo/RecentCounter.java" />
@@ -177,13 +169,16 @@
         <option value="$PROJECT_DIR$/src/weekTwo/MiddleOfLinkedList.java" />
         <option value="$PROJECT_DIR$/src/weekOne/MiddleOfLinkedList.java" />
         <option value="$PROJECT_DIR$/src/weekTwo/MatrixCells.java" />
+        <option value="$PROJECT_DIR$/src/weekTwo/DeleteNodeLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/weekTwo/MyLinkedList.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="980" />
-    <option name="width" value="945" />
-    <option name="height" value="1040" />
+    <option name="x" value="951" />
+    <option name="y" value="-9" />
+    <option name="width" value="978" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -241,7 +236,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MatrixCells">
+  <component name="RunManager" selected="Application.MyLinkedList">
     <configuration name="Division" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="weekOne.Division" />
       <module name="a2sv2" />
@@ -264,6 +259,17 @@
         </pattern>
       </extension>
     </configuration>
+    <configuration name="MyLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="weekTwo.MyLinkedList" />
+      <module name="a2sv2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="weekTwo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="weekTwo.Recursion" />
       <module name="a2sv2" />
@@ -277,17 +283,6 @@
     </configuration>
     <configuration name="ReversePolishNotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="weekTwo.ReversePolishNotation" />
-      <module name="a2sv2" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="weekOne.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="ValidParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="weekTwo.ValidParentheses" />
       <module name="a2sv2" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -339,19 +334,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.ValidParentheses" />
       <item itemvalue="Application.ReversePolishNotation" />
       <item itemvalue="Application.Recursion" />
       <item itemvalue="Application.Division" />
       <item itemvalue="Application.MatrixCells" />
+      <item itemvalue="Application.MyLinkedList" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyLinkedList" />
         <item itemvalue="Application.MatrixCells" />
         <item itemvalue="Application.Division" />
         <item itemvalue="Application.Recursion" />
         <item itemvalue="Application.ReversePolishNotation" />
-        <item itemvalue="Application.ValidParentheses" />
       </list>
     </recent_temporary>
   </component>
@@ -381,7 +376,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.19724138" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36827585" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -405,17 +400,10 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="9" />
+      <option name="time" value="10" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/weekOne/TwoSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/weekOne/CountingValleys.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -684,13 +672,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/weekTwo/Some.java" />
-    <entry file="file://$PROJECT_DIR$/src/weekTwo/DeleteNodeLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/weekTwo/ValidParentheses.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
@@ -726,6 +707,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/weekOne/MiddleOfLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/weekTwo/MatrixCells.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/weekTwo/LinkedListNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -744,20 +742,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/weekOne/MiddleOfLinkedList.java">
+    <entry file="file://$PROJECT_DIR$/src/weekTwo/DeleteNodeLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        <state relative-caret-position="204">
+          <caret line="12" column="2" lean-forward="true" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/weekTwo/MatrixCells.java">
+    <entry file="file://$PROJECT_DIR$/src/weekTwo/MyLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="291">
+          <caret line="133" column="9" lean-forward="true" selection-start-line="113" selection-start-column="6" selection-end-line="133" selection-end-column="9" />
         </state>
       </provider>
     </entry>
