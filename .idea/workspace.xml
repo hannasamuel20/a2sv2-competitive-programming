@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f06b84d-475f-41bb-8f53-04698dc3520c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/weekTwo/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weekTwo/MiddleOfALinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/weekTwo/DeleteNodeLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/weekTwo/DeleteNodeLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/weekTwo/LinkedListNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/weekTwo/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/weekTwo/MyLinkedList.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,17 +28,17 @@
       <file leaf-file-name="MyLinkedList.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/weekTwo/MyLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
-              <caret line="133" column="9" lean-forward="true" selection-start-line="113" selection-start-column="6" selection-end-line="133" selection-end-column="9" />
+            <state relative-caret-position="289">
+              <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ValidParentheses.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/weekTwo/ValidParentheses.java">
+      <file leaf-file-name="MiddleOfALinkedList.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/weekTwo/MiddleOfALinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+            <state relative-caret-position="306">
+              <caret line="18" column="15" lean-forward="true" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -170,6 +169,7 @@
         <option value="$PROJECT_DIR$/src/weekOne/MiddleOfLinkedList.java" />
         <option value="$PROJECT_DIR$/src/weekTwo/MatrixCells.java" />
         <option value="$PROJECT_DIR$/src/weekTwo/DeleteNodeLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/weekTwo/MiddleOfALinkedList.java" />
         <option value="$PROJECT_DIR$/src/weekTwo/MyLinkedList.java" />
       </list>
     </option>
@@ -376,11 +376,11 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36827585" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.36827585" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19661458" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19661458" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -404,13 +404,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/weekOne/CountingValleys.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/weekOne/ReverseInteger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -749,10 +742,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/weekTwo/MiddleOfALinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="15" lean-forward="true" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/weekTwo/MyLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="133" column="9" lean-forward="true" selection-start-line="113" selection-start-column="6" selection-end-line="133" selection-end-column="9" />
+        <state relative-caret-position="289">
+          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
         </state>
       </provider>
     </entry>
