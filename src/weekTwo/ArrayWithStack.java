@@ -16,7 +16,6 @@ public class ArrayWithStack {
             if(fakeIndex+1==target[realIndex]){
                 array.add("Push");
 
-
             }
             else if(fakeIndex+1<target[realIndex]){
                 array.add("Push");
@@ -26,8 +25,6 @@ public class ArrayWithStack {
             }
             fakeIndex++;
             realIndex++;
-
-
         }
         return array;
 
