@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f06b84d-475f-41bb-8f53-04698dc3520c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/contest/Cookies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/contest/IceCreamParlor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/contest/MatchingStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/contest/MinimumLoss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/weekThree/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/weekThree/HeapSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/weekThree/InvertBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/weekThree/LastStoneWeight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/weekThree/MergeTwoBinaryTrees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/weekThree/RangeSumBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/weekThree/RecursiveDigitSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/weekThree/SearchBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/weekThree/TopKFrequentElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/weekThree/Try.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/a2sv2/weekTwo/DailyTempratures.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/a2sv2/weekTwo/DailyTempratures.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/a2sv2/weekTwo/MarkAndToys.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/a2sv2/weekTwo/MarkAndToys.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/weekTwo/MarkAndToys.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/weekTwo/MarkAndToys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weekThree/CrawlerLogFolder.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
