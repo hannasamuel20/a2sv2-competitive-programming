@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class MarkAndToys {
     public static void main(String[] args) {
-        System.out.print( maximumToys(new int[]{1,2,3,4},7));
+        System.out.print( maximumToys(new int[]{5},5));
 
     }
     static int maximumToys(int[] prices, int k) {
