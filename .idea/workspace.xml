@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f06b84d-475f-41bb-8f53-04698dc3520c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/weekThree/CrawlerLogFolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weekTwo/MergeTwoSortedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weekTwo/Minstack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/weekThree/CrawlerLogFolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/weekThree/CrawlerLogFolder.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,7 +157,21 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../OS_Socket_Assignment" />
   </component>
-  <component name="RunManager" selected="Application.MarkAndToys">
+  <component name="RunManager" selected="Application.CrawlerLogFolder">
+    <configuration name="CrawlerLogFolder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="weekThree.CrawlerLogFolder" />
+      <module name="a2sv2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="weekThree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="IceCreamParlor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="contest.IceCreamParlor" />
       <module name="a2sv2" />
@@ -211,20 +228,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Try" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="weekThree.Try" />
-      <module name="a2sv2" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="weekThree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -248,19 +251,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Try" />
       <item itemvalue="Application.RecursiveDigitSum" />
       <item itemvalue="Application.LastStoneWeight" />
       <item itemvalue="Application.IceCreamParlor" />
       <item itemvalue="Application.MarkAndToys" />
+      <item itemvalue="Application.CrawlerLogFolder" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CrawlerLogFolder" />
         <item itemvalue="Application.MarkAndToys" />
         <item itemvalue="Application.IceCreamParlor" />
         <item itemvalue="Application.LastStoneWeight" />
         <item itemvalue="Application.RecursiveDigitSum" />
-        <item itemvalue="Application.Try" />
       </list>
     </recent_temporary>
   </component>
