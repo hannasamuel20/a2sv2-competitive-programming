@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f06b84d-475f-41bb-8f53-04698dc3520c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/dailyQuestions/ContainerWithMostWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dailyQuestions/FindKPairs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -155,7 +155,7 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../OS_Socket_Assignment" />
   </component>
-  <component name="RunManager" selected="Application.CrawlerLogFolder">
+  <component name="RunManager" selected="Application.FindKPairs">
     <configuration name="CrawlerLogFolder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="weekThree.CrawlerLogFolder" />
       <module name="a2sv2" />
@@ -163,6 +163,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="weekThree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindKPairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dailyQuestions.FindKPairs" />
+      <module name="a2sv2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dailyQuestions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -212,20 +226,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RecursiveDigitSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="weekThree.RecursiveDigitSum" />
-      <module name="a2sv2" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="weekThree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -249,19 +249,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.RecursiveDigitSum" />
       <item itemvalue="Application.LastStoneWeight" />
       <item itemvalue="Application.IceCreamParlor" />
       <item itemvalue="Application.MarkAndToys" />
       <item itemvalue="Application.CrawlerLogFolder" />
+      <item itemvalue="Application.FindKPairs" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindKPairs" />
         <item itemvalue="Application.CrawlerLogFolder" />
         <item itemvalue="Application.MarkAndToys" />
         <item itemvalue="Application.IceCreamParlor" />
         <item itemvalue="Application.LastStoneWeight" />
-        <item itemvalue="Application.RecursiveDigitSum" />
       </list>
     </recent_temporary>
   </component>
