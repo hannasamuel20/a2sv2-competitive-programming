@@ -2,7 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f06b84d-475f-41bb-8f53-04698dc3520c" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/contest/ForContest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weekFive/AverageLevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weekFive/BinaryTreeZigzag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weekFive/FloodFill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weekFive/MinimumDepth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weekFour/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weekFour/FindMedian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weekFour/FirstAndLast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weekFour/FirstBadVersion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weekFour/FurthestBuilding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weekFour/MergeKSortedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weekFour/NegativeNumsInAMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weekFour/PositiveIntegerSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weekFour/TopKFrequentWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weekThree/FindBottomLeftTreeValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weekThree/ValidateBST.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/a2sv2/dailyQuestions/FindKPairs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/a2sv2/dailyQuestions/FindKPairs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/a2sv2/dailyQuestions/Num1Num2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/a2sv2/dailyQuestions/Num1Num2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/a2sv2/dailyQuestions/Num1Num2Comparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/a2sv2/dailyQuestions/Num1Num2Comparator.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,7 +173,7 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../OS_Socket_Assignment" />
   </component>
-  <component name="RunManager" selected="Application.FindKPairs">
+  <component name="RunManager" selected="Application.ForContest">
     <configuration name="CrawlerLogFolder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="weekThree.CrawlerLogFolder" />
       <module name="a2sv2" />
@@ -183,8 +202,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IceCreamParlor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="contest.IceCreamParlor" />
+    <configuration name="ForContest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="contest.ForContest" />
       <module name="a2sv2" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -197,13 +216,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LastStoneWeight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="weekThree.LastStoneWeight" />
+    <configuration name="IceCreamParlor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="contest.IceCreamParlor" />
       <module name="a2sv2" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="weekThree.*" />
+          <option name="PATTERN" value="contest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -248,19 +267,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LastStoneWeight" />
       <item itemvalue="Application.IceCreamParlor" />
       <item itemvalue="Application.MarkAndToys" />
       <item itemvalue="Application.CrawlerLogFolder" />
       <item itemvalue="Application.FindKPairs" />
+      <item itemvalue="Application.ForContest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ForContest" />
         <item itemvalue="Application.FindKPairs" />
         <item itemvalue="Application.CrawlerLogFolder" />
         <item itemvalue="Application.MarkAndToys" />
         <item itemvalue="Application.IceCreamParlor" />
-        <item itemvalue="Application.LastStoneWeight" />
       </list>
     </recent_temporary>
   </component>
@@ -320,6 +339,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/weekOne/TwoSum.java">
