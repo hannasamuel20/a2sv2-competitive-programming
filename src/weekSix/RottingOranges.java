@@ -7,87 +7,48 @@ import java.util.Arrays;
 public class RottingOranges {
     public int orangesRotting(int[][] grid) {
 
-        ArrayDeque<ArrayList<Integer>> queue = new ArrayDeque<>();
+        ArrayDeque<Integer[]> queue = new ArrayDeque<>();
         int innerSize = grid[0].length;
         int outerSize = grid.length;
         boolean [][] visited = new boolean[outerSize][innerSize];
+
+        int zeros = 0;
+        int ones = 0;
+        int [][] directions = new int[][]{new int[]{0,1},new int[]{1,0}, new int[]{-1,0}, new int[]{0,-1}};
 
         for(int i=0; i<grid.length; i++){
             for(int j=0;j<grid[0].length;j++){
                 if(grid[i][j]==2){
                     visited[i][j]=true;
-                    queue.add(new ArrayList<Integer>(Arrays.asList(i,j)));
-
+                    queue.add(new Integer [] {i,j});
+                }
+                else if(grid[i][j]==0){
+                    zeros++;
+                }
+                else{
+                    ones++;
                 }
             }
         }
-
         int count = -1;
         while(!queue.isEmpty()){
-
             int size = queue.size();
-            for(int i=0; i<size; i++){
-                ArrayList<Integer> orange = queue.remove();
-                ArrayList<Integer> left = new ArrayList<>(Arrays.asList(orange.get(0),orange.get(1)-1));
-                ArrayList<Integer> right =new ArrayList<>(Arrays.asList(orange.get(0),orange.get(1)+1));
-                ArrayList<Integer> top = new ArrayList<>(Arrays.asList(orange.get(0)-1,orange.get(1)));
-                ArrayList<Integer> bottom =new ArrayList<>(Arrays.asList(orange.get(0)+1,orange.get(1)));
-
-                if(left.get(1)>=0 && !visited[left.get(0)][left.get(1)]){
-                    if(grid[left.get(0)][left.get(1)] == 1){
-                        grid[left.get(0)][left.get(1)]=2;
-                        queue.add(left);
+            for(int k=0; k<size; k++){
+                Integer[] orange = queue.remove();
+                for(int[] direction: directions){
+                    int i = orange[0]+direction[0];
+                    int j = orange[1]+direction[1];
+                    if(i>=0 && i<outerSize && j>=0 && j<innerSize && !visited[i][j]&&grid[i][j] == 1){
+                        ones--;
+                        queue.add(new Integer[]{i,j});
+                        visited[i][j]=true;
                     }
-                    visited[left.get(0)][left.get(1)]=true;
-
 
                 }
-                if(right.get(1)<innerSize && !visited[right.get(0)][right.get(1)]){
-                    if(grid[right.get(0)][right.get(1)] == 1){
-                        grid[right.get(0)][right.get(1)]=2;
-                        queue.add(right);
-                    }
-                    visited[right.get(0)][right.get(1)]=true;
-
-                }
-
-                if(top.get(0)>=0 && !visited[top.get(0)][top.get(1)]){
-                    if(grid[top.get(0)][top.get(1)] == 1){
-                        grid[top.get(0)][top.get(1)]=2;
-                        queue.add(top);
-                    }
-                    visited[top.get(0)][top.get(1)]=true;
-                }
-
-
-                if(bottom.get(0)<outerSize && !visited[bottom.get(0)][bottom.get(1)]){
-                    if(grid[bottom.get(0)][bottom.get(1)] == 1){
-                        queue.add(bottom);
-                        grid[bottom.get(0)][bottom.get(1)]=2;
-                    }
-                    visited[bottom.get(0)][bottom.get(1)]=true;
-
-                }
-
-
             }
             count++;
-
         }
-        boolean allZero =true;
-        for(int i=0; i<grid.length; i++){
-            for(int j=0;j<grid[0].length;j++){
-
-                if(grid[i][j]==1){
-                    return -1;
-                }
-                else if(grid[i][j]!=0){
-                    allZero = false;
-                }
-            }
-        }
-
-        return allZero?0:count;
+        return zeros==outerSize*innerSize?0:ones>0?-1:count;
 
 
     }
