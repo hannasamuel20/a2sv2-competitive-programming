@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f06b84d-475f-41bb-8f53-04698dc3520c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/weekTen_greedy/BestTimeII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weekTen_DP/ClimbingStairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weekTen_DP/HouseRobber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weekTen_DP/MinPathSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weekTen_DP/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
